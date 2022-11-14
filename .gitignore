@@ -1,0 +1,14 @@
+*.zip
+*.png
+*.jpg
+*.npz
+*.mp4
+*.pt
+*.pdf
+*.cfg
+*.pkl
+pallete
+*.names
+*.yaml
+*.weights
+*.pyc
